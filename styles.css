@@ -1,0 +1,85 @@
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: black;
+  background-color: white
+}
+ h1 {
+  font-family: Optima, sans-serif;
+  text-align: center;
+  color: #18978F
+ } 
+ 
+ h3 {
+  font-family: Optima, sans-serif;
+  color: #18978F
+}
+
+div.recipe-image {
+  text-align: center;
+}
+.div-hr {
+  width: 50%; 
+  margin: 0 25% 0 25%;
+  border-top: 7px dotted;
+  max-width: 800px;
+  color: #18978F
+}     
+.description {
+  text-align: center;
+}
+.descr-p {
+  text-align:center;
+}
+p.container {
+  text-align: center;
+  border: none;
+  max-width: 700px;
+  margin: auto;
+}
+div.content{
+  border: none;
+  max-width: 700px;
+  margin: auto;
+}
+div.quote {
+  text-align: center;
+}
+.vertical-line-left {
+  border-left: 50px solid #6daba7;
+  height: 1670px;
+  position: absolute;
+  left: 25%;
+  margin-left: -75px;
+  top: -5px;
+}
+.vertical-line-right {
+  border-right: 50px solid #6daba7;
+  height: 1670px;
+  position: absolute;
+  right: 25%;
+  margin-right: -75px;
+  top: -5px;
+}
+
+.vertical-line-right1 {
+  border-right: 50px solid #6daba7;
+  height: 2100px;
+  position: absolute;
+  right: 25%;
+  margin-right: -75px;
+  top: -5px;
+}
+
+.vertical-line-left1 {
+  border-left: 50px solid #6daba7;
+  height: 2100px;
+  position: absolute;
+  left: 25%;
+  margin-left: -75px;
+  top: -5px;
+}
+
+h4 {
+  color :#18978F;
+}
